@@ -307,7 +307,7 @@
                             @csrf
                                         <a class="dropdown-item" href="#"
                                            onclick="event.preventDefault();
-                                        this.closest('form').submit();"><i class="bx bx-log-out"></i>تسجيل الخروج</a>
+                                        this.closest('form').submit();"><i class="bx bx-log-out">logout</i></a>
                                     </form>
 
                     </div>
